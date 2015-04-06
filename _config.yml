@@ -3,15 +3,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Joan M
+tagline:          "@Barcelona"
 url:              http://getpoole.com
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
+  name:           Joan Martínez
   url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  email:          hello@pantry.cat
 
 # Custom vars
 version:          1.0.0
